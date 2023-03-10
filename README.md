@@ -1,5 +1,5 @@
 # Minecraft-Troller-
-WARNING:this tool is for EDUCATIONAL PURPOSES ONLY,this tool was created for no evil,i handle no responsibility with your actions 
+#WARNING:this tool is for EDUCATIONAL PURPOSES ONLY,this tool was created for no evil,i handle no responsibility with your actions 
 #importing modules
 
 import time
